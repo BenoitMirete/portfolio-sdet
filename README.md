@@ -19,6 +19,9 @@ Below are the key projects I’ve worked on:
 - **Infrastructure Automation**: Terraform with Ansible, LXD containers, CI/CD pipelines.
 - **Custom Scripts & Utilities**: Bash, TypeScript, Node.js and Python scripts for test automation and environment setup.
 
+- [Playwright Saucedemo E2E Tests](https://github.com/BenoitMirete/playwright-ts-saucedemo-e2e)  
+  End-to-end testing automation using Playwright and TypeScript on the SauceDemo demo ecommerce platform.
+
 ## How to Use
 
 Each project is documented with setup instructions, usage examples, and links to the source code. Feel free to explore and reach out for collaborations or questions.
